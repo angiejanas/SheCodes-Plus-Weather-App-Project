@@ -104,6 +104,10 @@ div .card-deck .card {
 	border-radius: 20px;
 	padding: 10px 2px 0px 2px;
 }
+div .footer {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
 #cel-fahr-temps {
 	font-size: 20px;
 	position: relative;
